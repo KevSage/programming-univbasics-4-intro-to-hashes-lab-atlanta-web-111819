@@ -4,7 +4,7 @@ end
 
 def my_hash
   baseball {
-    altanta: "Braves"
+    atlanta: "Braves"
   }
 end
 
