@@ -23,7 +23,7 @@ end
 def my_hash_creator(key, value)
   new_key = key
   created_hash = {
-    newkey: value
+    new_key: value
   }
 end
 
