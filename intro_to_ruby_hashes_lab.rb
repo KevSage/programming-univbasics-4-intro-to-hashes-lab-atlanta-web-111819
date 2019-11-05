@@ -9,7 +9,7 @@ def my_hash
 end
 
 def pioneer
-  history = {
+  pioneer = {
     :name => "Grace Hopper"
   }
 end
