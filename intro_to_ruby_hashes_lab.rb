@@ -10,7 +10,7 @@ end
 
 def pioneer
   history = {
-    name : "Grace Hopper"
+    :name => "Grace Hopper"
   }
 end
 
